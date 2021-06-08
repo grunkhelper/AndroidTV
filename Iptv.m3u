@@ -1,0 +1,5 @@
+=====[ IPTV ]=====
+#EXTINF:0 logo=https://drive.google.com/file/d/15yWcPqlErGtEcI71QAPvNZXAWl1z1tfN/view?usp=drivesdk ,Rtm1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:0 logo=https://drive.google.com/file/d/16USR9VDoKdWJ9AbeBaq8R7ycN9OTWjPW/view?usp=drivesdk ,Rtm2
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
