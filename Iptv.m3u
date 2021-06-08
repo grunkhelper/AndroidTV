@@ -1,4 +1,4 @@
-=====[ IPTV ]=====
+
 #EXTINF:0 logo=rtm1.png ,Rtm1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0 logo=rtm2.png ,Rtm2
