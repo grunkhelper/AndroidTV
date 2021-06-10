@@ -23,7 +23,7 @@ http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:0,Astro Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/L5irHu2.jpg, Celestial Classic
+#EXTINF:0 logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png, Celestial Classic
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/200px-Astro_Ceria.png, Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
@@ -37,7 +37,7 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/200px-Astro_Ria.png, Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:0 logo=https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png, Astro Naura
+#EXTINF:0 logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png, Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:0,GO SHOP Raya
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
