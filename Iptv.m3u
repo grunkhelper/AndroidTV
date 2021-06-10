@@ -21,13 +21,13 @@ http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:0,Astro Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/dLzgBUj.png, Astro Awani
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/200px-Astro_Awani.png, Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:0,Astro Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:0,Celestial Classic
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:0,Astro Ceria
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/200px-Astro_Ceria.png, Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:0,Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -35,23 +35,23 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:0,Natgeo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:0,Astro Oasis
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/200px-Astro_Oasis.png, Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png, Astro Ria
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/200px-Astro_Ria.png, Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:0,GO SHOP Raya
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/200px-Astro_Warna_NEW.png, Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:0,Supersport 1
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:0,Supersport 2
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:0,Supersport 3
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 3
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:0,Supersport 4
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:0,Drama Sangat
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/220px-Drama_Sangat_HQ.jpg, Drama Sangat
 https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:0,Espn
 https://gma2.blab.email/fs2.m3u8
