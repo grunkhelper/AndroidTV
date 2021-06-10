@@ -13,7 +13,7 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png,Tv 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:0,Trans 7
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png, Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Astro_AOD_%28s17%29.png/220px-Astro_AOD_%28s17%29.png, Aod HD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
@@ -27,11 +27,11 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/200px-Astro_Ceria.png, Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:0,Astro Citra
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/200px-Astro_Citra.png, Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:0,Astro HBO
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png, Astro HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0,Natgeo Wild
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/ms/f/f6/NatGeo_Wild.png, Natgeo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/200px-Astro_Oasis.png, Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
