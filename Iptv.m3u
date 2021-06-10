@@ -41,7 +41,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:0,GO SHOP Raya
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
-#EXTINF:0,Astro Warna
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/200px-Astro_Warna_NEW.png, Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:0,Supersport 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
