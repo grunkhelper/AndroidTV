@@ -1,4 +1,3 @@
-=====[ RTM ]=====
 #EXTINF:0,Tv 1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0,Tv 2
@@ -11,10 +10,8 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:0,Tv 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-=====[ Tv Indo ]=====
 #EXTINF:0,Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-=====[ Astro ]=====
 #EXTINF:0,Aod HD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:0,Astro Prima
@@ -49,6 +46,5 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:0,Supersport 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-=====[ Others ]=====
 #EXTINF:0,Espn
 https://gma2.blab.email/fs2.m3u8
