@@ -7,20 +7,18 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png, Tv Okey
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:0,Ntv 7
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png, Ntv 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:0,Tv 8
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png, Tv 8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:0,Tv 9
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png,Tv 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:0,Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:0,Aod HD
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Astro_AOD_%28s17%29.png/220px-Astro_AOD_%28s17%29.png, Aod HD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:0,Astro Prima
+#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/200px-Astro_Prima.png, Astro Prima
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:0,Astro Arena
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/200px-Astro_Awani.png, Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:0,Astro Boo
