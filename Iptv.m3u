@@ -23,7 +23,7 @@ http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:0,Astro Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:0,Celestial Classic
+#EXTINF:0 logo=https://i.imgur.com/L5irHu2.jpg, Celestial Classic
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/200px-Astro_Ceria.png, Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
