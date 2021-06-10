@@ -1,5 +1,59 @@
 
 #EXTINF:0 logo=rtm1.png ,Rtm1
+https://https://raw.githubusercontent.com/grunkhelper/IPTV/main/Myiptv.m3u?=====[ RTM ]=====
+#EXTINF:0,Tv 1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:0,Tv 2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:0,Tv 3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:0,Ntv 7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:0,Tv 8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:0,Tv 9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+=====[ Tv Indo ]=====
+#EXTINF:0,Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+=====[ Astro ]=====
+#EXTINF:0,Aod HD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:0,Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:0,Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:0,Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:0,Astro Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:0,Celestial Classic
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0,Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:0,Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:0,Astro HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0,Natgeo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:0,Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:0,Astro Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:0,Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:0,Supersport 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:0,Supersport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:0,Supersport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:0,Supersport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+=====[ Others ]=====
+#EXTINF:0,Espn
+https://gma2.blab.email/fs2.m3u8
+=AULX6TKWUEJ2VPS756D45MTAYFQMQ.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:0 logo=rtm2.png ,Rtm2
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
