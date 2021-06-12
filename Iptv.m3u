@@ -15,7 +15,9 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png,Tv 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXINF:0,Hello
+#EXTINF:0 logo=https://didik.tv/images/logotv2.png, Didik TV
+https://mediahomes.github.io/assets/my/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:0 logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png, Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/400px-Trans_7_2013.svg.png, Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -43,7 +45,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:0 logo=https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png, Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:0 logo=https://www.seekpng.com/png/full/305-3059964_astro-go-beyond-logo-png-go-shop.png, GO SHOP Raya
+#EXTINF:0 logo=https://png1.12png.com/t/1/15/25/v5jjtbP5qc/bukit-jalil-television-number-astro-njoi-aptoide.jpg, GO SHOP Raya
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/200px-Astro_Warna_NEW.png, Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
