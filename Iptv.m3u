@@ -49,13 +49,13 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/200px-Astro_Warna_NEW.png, Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 1
+#EXTINF:0 logo=https://www.astroiptv.com.my/wp-content/uploads/2016/06/astro-channel-810-supersport.png, Supersport 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 2
+#EXTINF:0 logo=https://www.astroiptv.com.my/wp-content/uploads/2016/06/astro-channel-811-supersport-2.png, Supersport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 3
+#EXTINF:0 logo=https://www.astroiptv.com.my/wp-content/uploads/2016/06/astro-channel-supersport-3-816.png, Supersport 3
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/220px-Astro_ASSP1.png, Supersport 4
+#EXTINF:0 logo=https://www.astroiptv.com.my/wp-content/uploads/2016/06/astro-channel-supersport-4-817.png, Supersport 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:0 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/220px-Drama_Sangat_HQ.jpg, Drama Sangat
 https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
